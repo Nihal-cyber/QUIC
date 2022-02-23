@@ -1,0 +1,31 @@
+body
+{
+ background-color: rgb(111, 172, 241);
+}
+span#score
+{
+    font-size: 25px;
+    float:left;
+    margin-left:  200px;
+}
+span#timer
+{
+    font-size: 25px;
+    float:right;
+    margin-right: 200px;
+}
+#show_sketch
+{
+    float:right;
+}
+span#Sketchtobedrawn
+{
+    font-size: 20px;
+    color: aliceblue;
+}
+h1
+{
+    font-size: 50px;
+    margin-left:75px;
+    color: aliceblue;
+}
